@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "java Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 2,
+    "name": "python Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 3,
+    "name": "Dsa Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 100,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 4,
+    "name": "C Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 5,
+    "name": "MERN Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "MERN",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 6,
+    "name": "javaScript Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 7,
+    "name": "Data science Book",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  },
+  {
+    "id": 8,
+    "name": "Artificial Intelligence",
+    "title": "Lorem ipsum dolor sit amet consectetur ullam accusamus inventore",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721583725~exp=1721587325~hmac=8c0d57528c9aa899f044a1cdae8fa7004c8e357b627233fd0d98308a4afeaae6&w=826"
+  }
+]
